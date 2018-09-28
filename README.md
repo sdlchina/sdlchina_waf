@@ -28,3 +28,4 @@ sdlchina将会开始开源waf，基于nginx_lua
 3. 支持按组分发策略
 4. 支持nginx_proxy方式部署
 5. 支持在线升级
+6. 安全中心支持elk方式展示攻击日志
