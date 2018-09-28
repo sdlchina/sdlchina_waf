@@ -21,7 +21,7 @@ sdlchina将会开始开源waf，基于nginx_lua
 13. 支持盗链
 14. 所有功能支持按模块开启。
 
-2.0版本将会支持sdlchina center控制
+2.0版本将会支持sdlchina security center（web控制中心）控制
 
 1. 支持多节点策略下发
 2. 支持不同业务分组控制
