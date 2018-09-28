@@ -22,7 +22,9 @@ sdlchina将会开始开源waf，基于nginx_lua
 14. 恶意ip库（从sdlchina获取）
 15. 指纹库（待定）
 16. 漏洞库（待定）
-17. 所有功能支持按模块开启。
+17. ID url去重功能
+18. ID白名单引擎
+19. 所有功能支持按模块开启。
 
 2.0版本将会支持sdlchina security center（web控制中心）控制
 
